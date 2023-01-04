@@ -6,3 +6,8 @@
 6) which parameters we will pass into the createElement
 7) what is react element at the end? (It is an object)
 8) what react.render() will do. (it will modify the DOM, it will override the DOM )
+9) Why react is known as react
+    -> React is named React because of its ability to react to changes in data. When the data in a React component changes, React will automatically re-render the component so that it reflects the new data. This makes it easy to create performant user interfaces that always look up-to-date.
+10) What is diference between React and ReactDOM
+    -> React library is responsible for creating views and ReactDOM library is responsible to actually render UI in the browser.
+11)     
