@@ -1,0 +1,8 @@
+1) What is react
+2) What is CDN
+3) how to create element in react
+4) how to create root in react
+5) how to create multiple elements in react
+6) which parameters we will pass into the createElement
+7) what is react element at the end? (It is an object)
+8) what react.render() will do. (it will modify the DOM, it will override the DOM )
