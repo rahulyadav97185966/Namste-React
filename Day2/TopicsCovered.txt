@@ -1,0 +1,5 @@
+Topics Covered:
+1) NPM : It's package manager who manages all the packages which are required by react to work.
+2) Parcel/Webpack Bundlers
+3) what is Bundlers: When we build production ready code we want that code to be minified, optimized and Efficient, These all functionality is provided by the bundlers and parcel is one of that bundlers. (Parcel is a Beast)
+4) What is .parcel-cache: When we dev build we can see the created parcel-cace.
