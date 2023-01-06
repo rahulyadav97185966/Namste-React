@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: #2874F0;
+}
+.UI_List{
+    display: flex;
+    justify-content: center;
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+    list-style: none;
+}
+img{
+    width: 100px;
+    height: 30px;
+    margin-top: 15px;
+}
+li{
+    margin-left: 40px;
+    font-weight: 400;
+    font-size: large;
+}
+.searchBar{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    outline: none;
+    padding-left: 20px;
+    border-radius: 2px;
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+    width: 400px;
+}
+.SearchButton{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    outline: none;
+    padding-left: 10px;
+    /* border-radius: 2px; */
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+  background-color: #fff;
+}
+.SearchButton img {
+    width: 20px;
+    margin-right: 10px;
+    outline: none;
+    border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: hidden;
+}
+/* <div class="container">
+      <img src="#" alt="logo" />
+      <input type="text" placeholder="Search placeholder" />
+      <ul class="UI_List">
+        <li>My Account</li>
+        <li>Become a Seller</li>
+        <li>More</li>
+        <li>Cart</li>
+      </ul>
+    </div> */
