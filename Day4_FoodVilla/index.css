@@ -1,0 +1,27 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    box-shadow: 2px;
+}
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+}
+.nav-items > ul > li {
+    padding: 20px;
+}
+.RestroCart {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.RestroList{
+    width: 200px;
+    border: 0.5px solid #234243;
+    padding: 20px;
+    margin: 10px;
+}
+.RestroList > img {
+    width: 100%;
+}
