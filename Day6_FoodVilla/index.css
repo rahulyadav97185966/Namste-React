@@ -25,3 +25,15 @@
 .RestroList > img {
     width: 100%;
 }
+.Shimmar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.RestroListShimmar{
+    width: 200px;
+    padding: 20px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(169, 169, 169);
+}
