@@ -7,9 +7,6 @@ export const Title = () => (
     <img className="Logo" src={Swiggy} />
   </a>
 );
-
-// component (functional), Elements, props, Hooks (normal js function)
-
 export const Header = () => {
   const [loggedInUser, setLoggedInUser] = useState(false);
   return (
