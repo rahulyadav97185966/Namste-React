@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+.Header {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    box-shadow: 2px;
+}
+.Logo{
+    height: 100px;
+    width: 100%;
+}
+.nav-items > ul{
+    list-style-type: none;
+    display: flex;
+}
+.nav-items > ul > li {
+    padding: 20px;
+}
+.RestroCart {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.RestroList{
+    width: 200px;
+    border: 0.5px solid #234243;
+    padding: 20px;
+    margin: 10px;
+}
+.RestroList > img {
+    width: 100%;
+}
+.Shimmar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.RestroListShimmar{
+    width: 200px;
+    padding: 20px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(231, 226, 226);
+}
+.restro-card {
+    display: flex;
+    justify-content: start;
+
+}
+.img-restro{
+    height: 200px;
+    margin: 40px;
+}
+.details{
+    margin-top: 20px;
+} */
