@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import useOnline from "../utils/useOnline";
 import UserContext from "../utils/UserContext";
 import { useSelector } from "react-redux";
-import store from "../utils/Store";
+import store from "../utils/store";
 
 export const Title = () => (
   <a href="/">
